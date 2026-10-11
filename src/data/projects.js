@@ -14,6 +14,7 @@ export const projects = [
     image: "/images/projects/pastelaria.svg",
     alt: "Exemplo de site para pastelaria",
     description: "Conceito de página para apresentar produtos e facilitar o contato com um comércio local.",
+    liveUrl: "https://gtttech7-dev.github.io/Emporio-pastelaria/",
   },
   {
     title: "Barbearia",
