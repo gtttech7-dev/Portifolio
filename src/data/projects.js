@@ -9,7 +9,7 @@ export const projects = [
     actionLabel: "Experimentar sistema",
   },
   {
-    title: "Empório Frios Pastelaria PBA",
+    title: "**Seu negócio também pode ter um site como este.**",
     status: "Projeto demonstrativo",
     image: "/images/projects/pastelaria.svg",
     alt: "Exemplo de site para pastelaria",
