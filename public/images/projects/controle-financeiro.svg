@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="675" gradientUnits="userSpaceOnUse"><stop stop-color="#101a2b"/><stop offset="1" stop-color="#080d16"/></linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#60a5fa"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+  </defs>
+  <rect width="1200" height="675" rx="24" fill="url(#bg)"/>
+  <rect x="28" y="28" width="1144" height="619" rx="18" fill="#0b111b" stroke="#26354b"/>
+  <rect x="28" y="28" width="220" height="619" rx="18" fill="#0d1522"/>
+  <path d="M230 28h18v619h-18z" fill="#0d1522"/>
+  <rect x="52" y="55" width="38" height="38" rx="11" fill="url(#blue)"/><path d="M64 75h14M71 65v20" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <text x="101" y="80" fill="#f4f7fb" font-family="Arial,sans-serif" font-size="21" font-weight="700">Finanças</text>
+  <rect x="46" y="127" width="184" height="42" rx="10" fill="#1a2c47"/><rect x="61" y="141" width="13" height="13" rx="3" stroke="#77adff" stroke-width="2"/><text x="85" y="154" fill="#eaf2ff" font-family="Arial,sans-serif" font-size="14" font-weight="600">Dashboard</text>
+  <g fill="#8291a8" font-family="Arial,sans-serif" font-size="14"><text x="85" y="207">Movimentações</text><text x="85" y="253">Relatórios</text><text x="85" y="299">Categorias</text><text x="85" y="345">Configurações</text></g>
+  <g stroke="#8291a8" stroke-width="1.8" stroke-linecap="round"><path d="M61 194h13v13H61zM61 240h13v13H61zM61 286h13v13H61zM61 332h13v13H61z"/></g>
+  <text x="282" y="76" fill="#f5f7fb" font-family="Arial,sans-serif" font-size="27" font-weight="700">Visão geral</text>
+  <text x="282" y="103" fill="#8493a8" font-family="Arial,sans-serif" font-size="14">Acompanhe suas finanças em um só lugar</text>
+  <rect x="966" y="54" width="176" height="40" rx="10" fill="#2563eb"/><text x="1000" y="79" fill="white" font-family="Arial,sans-serif" font-size="13" font-weight="700">+ Nova movimentação</text>
+  <g>
+    <rect x="280" y="129" width="260" height="125" rx="14" fill="#111c2b" stroke="#26364c"/><text x="302" y="159" fill="#93a1b5" font-family="Arial,sans-serif" font-size="13">Saldo atual</text><text x="302" y="202" fill="#f5f8fc" font-family="Arial,sans-serif" font-size="31" font-weight="700">R$ 4.280,50</text><text x="302" y="229" fill="#4ade80" font-family="Arial,sans-serif" font-size="12">↑ Visão do período</text>
+    <rect x="558" y="129" width="260" height="125" rx="14" fill="#111c2b" stroke="#26364c"/><text x="580" y="159" fill="#93a1b5" font-family="Arial,sans-serif" font-size="13">Receitas</text><text x="580" y="202" fill="#4ade80" font-family="Arial,sans-serif" font-size="31" font-weight="700">R$ 6.750,00</text><text x="580" y="229" fill="#93a1b5" font-family="Arial,sans-serif" font-size="12">Entradas registradas</text>
+    <rect x="836" y="129" width="306" height="125" rx="14" fill="#111c2b" stroke="#26364c"/><text x="858" y="159" fill="#93a1b5" font-family="Arial,sans-serif" font-size="13">Despesas</text><text x="858" y="202" fill="#fb7185" font-family="Arial,sans-serif" font-size="31" font-weight="700">R$ 2.469,50</text><text x="858" y="229" fill="#93a1b5" font-family="Arial,sans-serif" font-size="12">Saídas registradas</text>
+  </g>
+  <rect x="280" y="274" width="540" height="335" rx="14" fill="#0f1927" stroke="#26364c"/><text x="302" y="307" fill="#f1f5f9" font-family="Arial,sans-serif" font-size="17" font-weight="700">Fluxo financeiro</text><text x="302" y="330" fill="#8493a8" font-family="Arial,sans-serif" font-size="12">Entradas e saídas ao longo do tempo</text>
+  <g stroke="#243247" stroke-width="1"><path d="M320 380H790M320 430H790M320 480H790M320 530H790M320 570H790"/></g>
+  <path d="M330 500 C370 480 390 455 430 465 S490 420 530 438 S590 380 630 405 S700 355 770 370" stroke="#60a5fa" stroke-width="4" stroke-linecap="round"/><path d="M330 535 C370 540 390 510 430 525 S490 490 530 510 S590 475 630 490 S700 460 770 480" stroke="#fb7185" stroke-width="4" stroke-linecap="round"/>
+  <g fill="#8493a8" font-family="Arial,sans-serif" font-size="11"><text x="326" y="591">Jan</text><text x="416" y="591">Fev</text><text x="506" y="591">Mar</text><text x="596" y="591">Abr</text><text x="686" y="591">Mai</text><text x="760" y="591">Jun</text></g>
+  <rect x="838" y="274" width="304" height="335" rx="14" fill="#0f1927" stroke="#26364c"/><text x="860" y="307" fill="#f1f5f9" font-family="Arial,sans-serif" font-size="17" font-weight="700">Últimas movimentações</text>
+  <g font-family="Arial,sans-serif"><circle cx="873" cy="354" r="13" fill="#123a2b"/><path d="M868 354h10m-5-5v10" stroke="#4ade80" stroke-width="2" stroke-linecap="round"/><text x="897" y="350" fill="#e5edf7" font-size="13">Pagamento recebido</text><text x="897" y="368" fill="#8291a8" font-size="11">Hoje</text><text x="1115" y="357" text-anchor="end" fill="#4ade80" font-size="13" font-weight="700">+ R$ 850</text>
+  <path d="M858 390H1122" stroke="#26364c"/><circle cx="873" cy="420" r="13" fill="#3a1d2a"/><path d="M868 420h10" stroke="#fb7185" stroke-width="2" stroke-linecap="round"/><text x="897" y="416" fill="#e5edf7" font-size="13">Conta de energia</text><text x="897" y="434" fill="#8291a8" font-size="11">Ontem</text><text x="1115" y="423" text-anchor="end" fill="#fb7185" font-size="13" font-weight="700">− R$ 180</text>
+  <path d="M858 446H1122" stroke="#26364c"/><circle cx="873" cy="476" r="13" fill="#123a2b"/><path d="M868 476h10m-5-5v10" stroke="#4ade80" stroke-width="2" stroke-linecap="round"/><text x="897" y="472" fill="#e5edf7" font-size="13">Serviço freelance</text><text x="897" y="490" fill="#8291a8" font-size="11">08 out</text><text x="1115" y="479" text-anchor="end" fill="#4ade80" font-size="13" font-weight="700">+ R$ 1.200</text>
+  <path d="M858 502H1122" stroke="#26364c"/><circle cx="873" cy="532" r="13" fill="#3a1d2a"/><path d="M868 532h10" stroke="#fb7185" stroke-width="2" stroke-linecap="round"/><text x="897" y="528" fill="#e5edf7" font-size="13">Compras do mês</text><text x="897" y="546" fill="#8291a8" font-size="11">07 out</text><text x="1115" y="535" text-anchor="end" fill="#fb7185" font-size="13" font-weight="700">− R$ 95</text></g>
+  <text x="600" y="632" text-anchor="middle" fill="#71839c" font-family="Arial,sans-serif" font-size="11">PRÉVIA ILUSTRATIVA DO DASHBOARD — SUBSTITUIR POR CAPTURA REAL DO SISTEMA</text>
+</svg>
