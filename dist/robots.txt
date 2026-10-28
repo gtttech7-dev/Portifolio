@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gomark-portfolio.luckylamp22.chatgpt.site/sitemap.xml
